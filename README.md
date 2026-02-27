@@ -2,7 +2,7 @@
 
 Trueminds Innovations Ltd – Frontend Developer Deliverable
 
-📌 Project Overview
+ Project Overview
 
 This project is a responsive frontend implementation of the Chuks Kitchen Food Ordering & Customer Management System.
 
@@ -20,10 +20,10 @@ Navigate through a structured layout
 
 Experience a responsive design across different screen sizes
 
-⚠️ This implementation is frontend-only.
+ This implementation is frontend-only.
 There is no backend integration, authentication system, or API functionality as specified in the assignment guidelines.
 
-🎯 Assignment Goal
+ Assignment Goal
 
 This project was completed to demonstrate:
 
@@ -64,7 +64,7 @@ Full control over responsiveness
 
 No unnecessary over-engineering
 
-📂 Project Structure
+ Project Structure
 trueminds-frontend-deliverable/
 │
 ├── index.html
@@ -87,7 +87,7 @@ Stores images and design-related resources used in the project.
 README.md
 Documentation explaining project structure and implementation decisions.
 
-🎨 Design Interpretation
+ Design Interpretation
 
 The Figma design was translated into code by:
 
@@ -161,7 +161,7 @@ Media queries
 
 Relative units (%, rem)
 
-✅ Features Implemented
+ Features Implemented
 
 Responsive navigation bar
 
@@ -187,7 +187,7 @@ Static content only
 
 Limited interactivity
 
-🚀 Future Improvements
+ Future Improvements
 
 If given more time, I would:
 
@@ -201,12 +201,12 @@ Add smooth UI animations
 
 Refactor into reusable components using a framework like React
 
-🌐 Live Preview
+ Live Preview
 
-https://olatundeolayemi.github.io/trueminds-frontend-deliverable/
-🔗 GitHub Repository
+ GitHub Repository
 https://github.com/olatundeolayemi/trueminds-frontend-deliverable
-👨‍💻 Author
+
+Author
 
 Olatunde Olayemi
 Frontend Developer Intern
