@@ -203,8 +203,6 @@ Refactor into reusable components using a framework like React
 
 🌐 Live Preview
 
-(If deployed, add link here)
-
 https://olatundeolayemi.github.io/trueminds-frontend-deliverable/
 🔗 GitHub Repository
 https://github.com/olatundeolayemi/trueminds-frontend-deliverable
