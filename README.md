@@ -1,4 +1,4 @@
-🍽️ Chuks Kitchen – Food Ordering Web Interface
+Chuks Kitchen – Food Ordering Web Interface
 
 Trueminds Innovations Ltd – Frontend Developer Deliverable
 
