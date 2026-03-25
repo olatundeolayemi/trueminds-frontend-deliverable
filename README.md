@@ -201,7 +201,8 @@ Add smooth UI animations
 
 Refactor into reusable components using a framework like React
 
- Live Preview
+ Live Preview on Vercel
+ https://trueminds-frontend-deliverable-olatunde-olayemi.vercel.app/
 
  GitHub Repository
 https://github.com/olatundeolayemi/trueminds-frontend-deliverable
